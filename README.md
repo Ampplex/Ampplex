@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ampplex" alt="ampplex" /></a> </p>
 
-- 🌱 Boosting skills GenAI skills
+- 🌱 Boosting GenAI skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
